@@ -1,4 +1,4 @@
-# E-Commerce Data Analysis Project
+# OLIST Commerce Data Analysis Project
 
 ## Overview
 This project leverages **SQL, Excel, Tableau, and Power BI** to conduct comprehensive data analysis on **e-commerce transactional data**, driving actionable insights for **revenue optimization** and **enhanced customer satisfaction**.  
