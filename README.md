@@ -8,6 +8,13 @@ By analyzing key performance indicators (KPIs) such as **payment trends, deliver
 - **SQL (MySQL)** – For data extraction, transformation, complex querying, and performance analysis.
 - **Excel** – For data cleaning, preprocessing, trend identification, and exploratory analysis using pivot tables and advanced functions.
 - **Power BI & Tableau** – For dynamic and interactive data visualization, dashboard creation, and real-time KPI monitoring.
+- 
+# Main KPI's Answered  
+1. **Weekday vs Weekend Payment Statistics**  
+2. **Number of Orders with Review Score 5 and Payment Type as Credit Card**  
+3. **Average Number of Days Taken for Pet Shop**  
+4. **Average Price and Payment Values from Customers of São Paulo City**  
+5. **Relationship Between Shipping Days vs Review Scores**  
 
 ## Key Highlights
 
